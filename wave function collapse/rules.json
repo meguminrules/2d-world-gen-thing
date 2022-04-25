@@ -1,0 +1,20 @@
+{
+    "tree": [
+        "grass",
+        "tree"
+    ],
+    "grass": [
+        "grass",
+        "sand",
+        "tree"
+    ],
+    "sand": [
+        "sand",
+        "water",
+        "grass"
+    ],
+    "water": [
+        "water",
+        "sand"
+    ]
+}
